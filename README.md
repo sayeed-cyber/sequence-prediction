@@ -5,7 +5,7 @@ Don't know what exactly i should call is but this program gonna understand the s
 
 For eg : if 1,2,3 so its an easy sequence the next number is obviously going to be 4 even a kid can answer it 
 But when thing become complex like 1,2,5,6,9,10,? Whats next number is going to be by taking some time and calculation a human can also answer it but this program is gonna be supper fast in that and answer in MS 
-But things are going to be more complex ans =2
+But things are going to be more complex ,next number is 13
 * 43,32,23,15,8,? Sequence became more complex so it requires some better iq to be fast and calculate for humans but this program can just ......
 .
 .
